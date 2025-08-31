@@ -89,7 +89,7 @@ E-mail: hsjung0731@gmail.com
 
    * Entry point for model training (univariate & multivariate U-Net).
 
-2. `scripts/test_2.py`
+2. `scripts/test.py`
 
    * Entry point for model evaluation and analysis (RMSE, SSIM, visualizations).
 
