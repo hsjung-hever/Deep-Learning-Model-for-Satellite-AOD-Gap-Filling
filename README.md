@@ -34,7 +34,7 @@ E-mail: hsjung0731@gmail.com
 4. Evaluate the trained models:
 
    ```bash
-   python scripts/test_2.py --nc-path ./data/test_all.nc --load-dir ./outputs
+   python scripts/test.py --nc-path ./data/test_all.nc --load-dir ./outputs
    ```
 
 5. Results (trained models, training logs, evaluation metrics, figures) are saved under the `outputs/` directory.
