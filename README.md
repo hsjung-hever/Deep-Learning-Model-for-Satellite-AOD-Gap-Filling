@@ -147,4 +147,3 @@ This study was conducted using data from the geostationary environmental satelli
 This code is provided as supplementary material for academic reference only.
 **All rights reserved. Redistribution and commercial use are not permitted.**
 
-```
