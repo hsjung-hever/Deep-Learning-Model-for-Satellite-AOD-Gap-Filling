@@ -1,0 +1,23 @@
+nc_path: "/path/to/train_.nc"
+save_dir: "./outputs"
+sz: 32
+testratio: 0.2
+modes: ["univariate", "multivariate"]
+gap_sizes: [2, 5, 15]
+epochs: 50
+batch_size: 32
+learning_rate: 0.001
+
+
+# variable names (override for your NetCDF)
+var:
+aod: aod
+lat: lat
+lon: lon
+ra: RA
+za: ZA
+vz: VZ
+tr: tr
+rad: rad
+uv: uv
+vis: vis
